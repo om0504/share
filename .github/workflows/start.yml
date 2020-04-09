@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: SSH connection to Actions
-      uses: csexton/debugger-action@master
+      uses: om0504/debugger-action@master
